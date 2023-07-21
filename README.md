@@ -8,7 +8,7 @@ The demo merely exemplifies the capture of collaborative actions, command synchr
 
 This tutorial will utilize a straightforward framework to elucidate the roles of SpreadJS and GCExcel in the entire collaborative editing scenario. The front-end relies on React, the back-end is based on SpringBoot, and data interaction is facilitated via WebSocket.
 
-This project pertains to the front-end segment. For the back-end segment, please refer to:
+This project pertains to the front-end part. For the back-end part, please refer to:
 [CollaborativeDemo_BackEnd](https://github.com/Gameckh/CollaborativeDemo_BackEnd)
 
 ## Environment Setup
